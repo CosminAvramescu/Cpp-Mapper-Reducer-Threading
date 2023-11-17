@@ -1,5 +1,3 @@
-334CC_Avramescu_Cosmin
-
 ---Aspecte generale 
 	M-am folosit de 3 clase pentru a avea codul mai bine organizat (Mapper, Reducer, Barrier).
 Cea mai importanta parte a temei e reprezentata de functiile thread_function_mapper si 
