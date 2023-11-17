@@ -1,4 +1,4 @@
-![workflow](workflow.png)
+![workflow](https://i.imgur.com/nMQQvSt.png)
 
 
 ---Aspecte generale 
